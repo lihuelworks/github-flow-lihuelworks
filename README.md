@@ -4,6 +4,8 @@
 
 This repository is proof of making Oolo.io's Github Flow Course on CI/CD pipelines, using Git and Github.
 
+For more info, visit [Ooloo's website](https://ooloo.io/project/github-flow). Original repo is on [Ooloo's Github account](https://github.com/ooloo-io/github-flow-lihuelworks/).
+
 ## Course themes
 
 - Cloning, pulling and pushing
